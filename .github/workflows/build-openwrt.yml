@@ -10,7 +10,7 @@ on:
 
 env:
   REPO_URL: https://github.com/dongjany/openwrt
-  REPO_BRANCH: 24.10
+  REPO_BRANCH: openwrt-24.10
   UPLOAD_FIRMWARE: true
   UPLOAD_RELEASE: true
   TZ: Asia/Shanghai
